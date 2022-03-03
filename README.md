@@ -18,15 +18,15 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+VS Code
+Python 3.8.6
+sqlite3
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [SQLite Turtorial](https://www.sqlitetutorial.net/)
+* [Python SQLite documentation](https://docs.python.org/3.8/library/sqlite3.html)
 
 # Future Work
 
