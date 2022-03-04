@@ -1,20 +1,12 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description the software that you wrote and how it integrates with a SQL Relational Database. Describe how to use your program.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
+This project was exploring more ways to use SQL and Python together using the sqlite3 library. This small software will allow the user to add, update, delete, or clear all the entries is a SQL database file. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Relational Database
 
-{Describe the relational database you are using.}
-
-{Describe the structure (tables) of the relational database that you created.}
+The table I am using is pretty simple. It is called library and holds the columns: title, author, & last_read. These are all text/char values.
 
 # Development Environment
 
@@ -24,13 +16,11 @@ sqlite3
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [SQLite Turtorial](https://www.sqlitetutorial.net/)
 * [Python SQLite documentation](https://docs.python.org/3.8/library/sqlite3.html)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add GUI interface instead of terminal
+* Allow more columns to be updated in table
+
