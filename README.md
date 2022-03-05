@@ -2,7 +2,7 @@
 
 This project was exploring more ways to use SQL and Python together using the sqlite3 library. This small software will allow the user to add, update, delete, or clear all the entries is a SQL database file. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/U1rZi_4nLIo)
 
 # Relational Database
 
